@@ -6,6 +6,7 @@ Supports pour la formation « Cycle de vie des données de la recherche »
 
 - OpenRefine
   - https://openrefine.org/
+  - https://msaby.gitlab.io/tutoriel-openrefine/
   - http://miriamposner.com/classes/dh201w19/tutorials-guides/data-cleaning-and-manipulation/getting-started-with-openrefine/
   - http://programminghistorian.org/en/lessons/cleaning-data-with-openrefine
 
